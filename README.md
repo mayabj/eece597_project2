@@ -8,4 +8,4 @@ The following section provides details of the project directories and files
 
 (3) code_to_recreate_the_tables_and_figures : Scripts to replicate the tables and figures in the paper
 
-(4) tables_and_figures_included_in_paper : Detailed spreadsheets capturing the data used to create the tables and figures in the paper
+(4) tables_and_figures_included_in_paper : Detailed spreadsheets capturing the data corresponding to the tables and figures in the paper
